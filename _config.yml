@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: BGUDNA
+name: Björgvin Gudnason | BGUDNA
 
 # Short bio or description (displayed in the header)
-description: Web Designer / Developer from Nowhere
+description: is constantly having things in development
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/photo.jpg
+avatar: /images/profile.jpg
 
 #
 # Flags below are optional
@@ -19,11 +20,11 @@ avatar: /images/photo.jpg
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook: bjorgvingudnason
   flickr: bgudna
-  github: 
+  github: bgudna
   instagram: bgudna
-  linkedin: 
+  linkedin: bjorgvingudnason
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: bgudna
@@ -37,7 +38,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://bgudna.com
+url: https://bgudna.com
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
