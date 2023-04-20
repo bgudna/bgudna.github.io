@@ -24,7 +24,7 @@ footer-links:
   flickr: bgudna
   github: bgudna
   instagram: bgudna
-  linkedin: bjorgvingudnason
+  linkedin: bjorgvin-gudnason
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: bgudna
@@ -38,7 +38,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://bgudna.com
+url: https://bgudna.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
