@@ -118,7 +118,24 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+
+  &.right {
+    float: right;
+
+    @include mobile {
+      float: none;
+    }
+  }
 }
+
+.pagination {
+  border-top: 1px solid #928374;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
 
 // Specify the color of the selection
 ::-moz-selection {
@@ -233,6 +250,10 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+
+    &:first-child {
+      margin-left: 0px;
+    }
 
     @include mobile {
       margin: 0 10px;
