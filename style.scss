@@ -274,11 +274,16 @@ nav {
   }
 }
 
+.back-link {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  display: block;
+  text-transform: uppercase;
+}
+
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #3c3836;
 }
 
 footer {

@@ -20,15 +20,16 @@ avatar: /images/square.jpg
 footer-links:
   dribbble: 
   email: 
-  facebook: bjorgvingudnason
+  facebook: 
   flickr: bgudna
   github: bgudna
   instagram: bgudna
   linkedin: bjorgvin-gudnason
   pinterest: 
   rss: rss
-  twitter: bgudna
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  bluesky: bgudna.bsky.social
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
